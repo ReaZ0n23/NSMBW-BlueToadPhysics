@@ -1,5 +1,13 @@
 # NSMBW-BlueToadPhysics
 Port SM3DW blue toad physics to NSMBW.
+## Compatible
+- PAL Rev1, 2
+- USA Rev1, 2
+- JPN Rev1, 2
+- KOR
+- TWN  
+  
+(Versions other than PALv1 and JPNv2 have not been tested)
 ## Usage
 1. Place **BToadPhysics.bin** into Code (or NewerRes) folder of your mod.  
 2. Add below entry to the riivolution xml file.  
